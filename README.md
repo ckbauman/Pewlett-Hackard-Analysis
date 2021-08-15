@@ -10,8 +10,7 @@ Pewlett-Hackard is trying to prepare for futre retirements within the company.  
 
 Results for retirements per Title show the outcome for Retirements (based on birth_date years of 1952 - 1955) and grouped by title for each.
 
-![retiring_titles](files/Users/jzhang/Desktop/Isolated.png)
-INSERT retiring_titles image
+![retiring_titles](https://github.com/ckbauman/Pewlett-Hackard-Analysis/blob/main/retiring_titles.png)
 
 - The primary fields where retirements wil occur are for Senior Engineers and Senior Staff
 - There are very few managers in the retirement range
