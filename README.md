@@ -12,12 +12,12 @@ Results for retirements per Title show the outcome for Retirements (based on bir
 
 ![retiring_titles](https://github.com/ckbauman/Pewlett-Hackard-Analysis/blob/main/retiring_titles.png)
 
-- The primary fields where retirements wil occur are for Senior Engineers and Senior Staff
+- The primary fields where retirements will occur are for Senior Engineers and Senior Staff
 - There are very few managers in the retirement range
 
 ### Employees in Mentorship Program
 
-Results show a list of employees that are eligible for the mentorship program.  These employees are determined based on their birth_date for the year 1965.
+Results show a list of employees that are eligible for the mentorship program.  These employees are determined based on their birth_date for the year 1965.  The following is a sample of the dataset.
 
 ![mentorship](https://github.com/ckbauman/Pewlett-Hackard-Analysis/blob/main/mentorship.png)
 
