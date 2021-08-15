@@ -19,7 +19,7 @@ Results for retirements per Title show the outcome for Retirements (based on bir
 
 Results show a list of employees that are eligible for the mentorship program.  These employees are determined based on their birth_date for the year 1965.
 
-INSERT mentorship image
+![mentorship](https://github.com/ckbauman/Pewlett-Hackard-Analysis/blob/main/mentorship.png)
 
 - There is a large list of eligible employees with various titles
 - Would like to determine numbers based on title or length of service to the company
@@ -28,11 +28,11 @@ INSERT mentorship image
 
 Additional information is needed to better analyze the mentorship program. 
 
-INSERT mentor_summary image
+![mentor summary](https://github.com/ckbauman/Pewlett-Hackard-Analysis/blob/main/mentor_summary.png)
 
 - Mentorship by title shows that most of the training will take place in Senior Staff and Engineering fields
 
-INSERT mentor_service image
+![mentor service](https://github.com/ckbauman/Pewlett-Hackard-Analysis/blob/main/mentor_service.png)
 
 - Additional information to show how long employees have been with the company based on from_date.  Employees serving the longest may be the first to start the program.
 
